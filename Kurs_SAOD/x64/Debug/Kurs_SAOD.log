@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Kurs_SAOD.cpp
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(136): warning C4101: i: неиспользованная локальная переменная
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(470): warning C4101: i: неиспользованная локальная переменная
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(927): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(928): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(945): warning C4244: аргумент: преобразование "double" в "char", возможна потеря данных
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(996): warning C4101: t: неиспользованная локальная переменная
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(1104): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(1022): warning C4101: tmpstr: неиспользованная локальная переменная
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(1025): warning C4101: n: неиспользованная локальная переменная
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(607): warning C4715: BTreeNode::search: значение возвращается не при всех путях выполнения
+c:\users\trylessfold\desktop\sibsutis_stud\kurs_saod\kurs_saod\kurs_saod.cpp(552): warning C4715: BTree::search: значение возвращается не при всех путях выполнения
+Kurs_SAOD.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Kurs_SAOD.vcxproj -> C:\Users\TryLessFold\Desktop\sibsutis_stud\Kurs_SAOD\x64\Debug\Kurs_SAOD.exe
